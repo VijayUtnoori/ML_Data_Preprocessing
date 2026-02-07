@@ -7,9 +7,10 @@ This repository contains step-by-step experiments on data preprocessing techniqu
   - Mean Imputation
   - Median Imputation
   - Mode Imputation
+## Experiment 02: KNN Imputer for Medical Data
+-KNN Imputer(Handling missing values)
 
 ## Upcoming Experiments
-- KNN Imputer
 - Iterative Imputer
 - Outlier Handling (IQR, Z-score)
 
